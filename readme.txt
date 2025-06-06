@@ -1,2 +1,5 @@
-hello there, and welcome to the coolboy67 repo. it's old, it's two years old, but it's back in buissness!
-i'm just gonna be uploading random code stuff, like python, html, js, css, all that. anyways, bye now.
+Hello everyone! This is my first git repo, originally made in 2020, updated 2 years later, then never touched again.
+
+Feel free to look.
+
+It's like 5 years old.
